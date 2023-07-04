@@ -35,10 +35,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HienThiLoiChao">
-    <configuration name="DateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DateTime" />
+  <component name="RunManager" selected="Application.ChuyenDoiTienTe">
+    <configuration name="ChuyenDoiTienTe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChuyenDoiTienTe.ChuyenDoiTienTe" />
       <module name="Day1_Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ChuyenDoiTienTe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChuyenDoiTienTe" />
         <item itemvalue="Application.HienThiLoiChao" />
         <item itemvalue="Application.PhuongTrinhBacNhat" />
         <item itemvalue="Application.HinhChuNhat" />
         <item itemvalue="Application.Variable" />
-        <item itemvalue="Application.DateTime" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688453916432</updated>
-      <workItem from="1688453917452" duration="1477000" />
+      <workItem from="1688453917452" duration="1820000" />
     </task>
     <servers />
   </component>
